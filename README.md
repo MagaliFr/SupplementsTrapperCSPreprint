@@ -1,4 +1,4 @@
-Supplementary appendices (S1–S2) for the EcoEvoRxiv preprint “Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management” (DOI: WILL BE ADDED ONCE PREPRINT HAS A DOI). 
+Supplementary appendices (S1–S2) for the EcoEvoRxiv preprint “Trapper Citizen Science: an open-source camera trap platform for citizen science in wildlife research and management” (DOI: https://doi.org/10.32942/X2G35W). 
 
 Because EcoEvoRxiv does not host these files directly, this repository serves as the canonical, versioned record. Releases mirror the preprint: v1 corresponds to preprint v1, v2 to v2, etc.; see CHANGELOG for revision notes. 
 
